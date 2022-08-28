@@ -994,5 +994,6 @@ a{
   .company-logo{
     display: block;
     float: left;
+    margin-left: 200px;
   }
   
